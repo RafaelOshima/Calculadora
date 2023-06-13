@@ -4,7 +4,7 @@
 
 Projeto que simula uma calculadora capaz de realizar operações aritméticas básicas, como adição, subtração, divisão e multiplicação
 
-[ 🔗 Clique aqui para acessar](rafaeloshima.github.io/Calculadora/)
+[ 🔗 Clique aqui para acessar](https://rafaeloshima.github.io/Calculadora/)
 
 ## 💻 Tecnologias
 
